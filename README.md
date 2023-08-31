@@ -1,2 +1,2 @@
-Data Scientist
-Personal Website POrtfolio
+# Data Scientist
+Personal Website Portfolio
